@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 
 # Hello Welcome to my blog
 
