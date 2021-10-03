@@ -11,7 +11,8 @@
   ------ | ------- | --------- | --------
   [github](https://github.com/reinerism) | [Twitter](http://twitter.com/opitz_reiner) | [Instagram](https://instagram.com/reiner.opitz) | [Linkedin](https://www.linkedin.com/in/reiner-opitz-17a165165/)       
 
-<a href="./blog.md">Go to next page</a>
+[link to blog] (https://reinerism/github.io/blog.md)
 
-<a href="./sports.md">Go to last page</a>
+[link to sports] (https://reinerism/github.io/sports.md)
+
 
