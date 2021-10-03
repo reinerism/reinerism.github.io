@@ -9,4 +9,4 @@
   
   Github | Twitter | Instagram | Linkedin
   ------ | ------- | --------- | --------
-  [github](https://github.com/reinerism) | http://twitter.com/opitz_reiner | https://instagram.com/reiner.opitz | https://www.linkedin.com/in/reiner-opitz-17a165165/       
+  [github](https://github.com/reinerism) | [Twitter](http://twitter.com/opitz_reiner) | [Instagram](https://instagram.com/reiner.opitz) | [Linkedin](https://www.linkedin.com/in/reiner-opitz-17a165165/)       
