@@ -6,7 +6,7 @@ catagories [ Self-reflection ]
 ---
 
 
-# Hello Welcom to my blog
+# Hello Welcome to my blog
 
 
 
